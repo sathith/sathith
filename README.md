@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sathith
 - 👀 I’m interested in Computer intensive method for statistical analysis
 - 🌱 I’m currently learning R for machine learing
-- 💞️ I’m looking to collaborate on stock market prediction
+- 💞️ I’m looking to collaborate on CSE stock indices,price prediction
 - 📫 How to reach me 2020apst34@stu.cmb.ac.lk
 
 <!---
